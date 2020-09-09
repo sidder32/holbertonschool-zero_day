@@ -1,1 +1,1 @@
-salut ffrom web
+salut from web
